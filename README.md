@@ -37,7 +37,8 @@ During AC analysis, the input amplitude was increased to observe the limits of t
 * **Cutoff:** Observed when the base current is insufficient to maintain the linear region.
 
 <img width="1600" height="1200" alt="BJT,wave" src="https://github.com/user-attachments/assets/e85c3ecb-aca4-411c-a729-7d808c3b4b81" />
-<img width="1600" height="1200" alt="BJT,wave" src="https://github.com/user-attachments/assets/2377f42a-9fd6-4c5b-8297-a1e60129afe0" />
+<img width="1600" height="1200" alt="Task2 ´Full" src="https://github.com/user-attachments/assets/db539526-4b71-404f-a756-f116f95f6ffe" />
+
 <img width="1200" height="1600" alt="Expected Result" src="https://github.com/user-attachments/assets/a8c6a720-d00e-469a-a4e0-9e665c11c791" />
 
 
